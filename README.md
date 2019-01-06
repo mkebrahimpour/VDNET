@@ -9,8 +9,8 @@ Ventral-Dorsal Framework for Object Detection:
 
 Selective Attention:
 
-![Alt text](./Net/voc2007.pdf?raw=true "Title")
+![Alt text](./Net/sa.png)
 
 Some Results on PASCAL VOC 2007 Dataset:
 
-![Alt text](./Net/voc.pdf?raw=true "Title")
+![Alt text](./Net/voc.png)
