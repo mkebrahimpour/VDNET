@@ -2,3 +2,7 @@
 
 Ventral-Dorsal Framework for Object Detection 
 ![Alt text](./Net/VDNet.png?raw=true "Title")
+
+Selective Attention:
+
+![Alt text](./Net/VDNet.png?raw=true "Title")
